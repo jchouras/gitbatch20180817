@@ -12,5 +12,9 @@ GIT Overview
 			 - unmodified (not making changes in this file)
 			 - modified (local changesm made)
 			 - staged (files to commit)
+
 -commands to learn
  git status	 
+
+-changed in branch 2
+
