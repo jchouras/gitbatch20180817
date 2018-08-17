@@ -1,0 +1,15 @@
+GIT Overview
+
+-distributed version control & source code management system - speed, data integrity, distributed
+-full fledged repository with complete history n tracking tools
+-non linear development - branching
+-distributed development - push & pull
+-compatibility with existing system/protocols - HTTP, FTP, rsync, ssh to connect to repository
+-checksum - unique code to commit - commit hash code - cannot change commit - SHA1 hash 40 character of hex digits for commit
+-conflict - merge n then manually make cahnges
+-staging area
+-file status - untracked (not changed just created once)
+			 - unmodified (not making changes in this file)
+			 - modified
+			 - staged
+			 
