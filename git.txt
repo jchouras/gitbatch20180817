@@ -10,6 +10,6 @@ GIT Overview
 -staging area
 -file status - untracked (not changed just created once)
 			 - unmodified (not making changes in this file)
-			 - modified
-			 - staged
+			 - modified (local changesm made)
+			 - staged (files to commit)
 			 
